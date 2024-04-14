@@ -93,7 +93,7 @@ A bold project button allowed for ease of navigation to the About page directly 
 
 ![Project Button & Socials](<docs/Project and Socials.png>)
 
-Contact links were implemented in every page of the website in the form of Icons provided by font awesome. This allowed prospective clients or companies to be able to contact me via socials or the contact form, and view my work or experience through LinkedIn, github, or the resume.
+Contact links were implemented in every page of the website in the form of Icons provided by font awesome. This allowed prospective clients or companies to be able to contact me via socials or the contact form, and view my work or experience through LinkedIn, GitHub, or the resume.
 
 
 ### Body & Content
@@ -155,7 +155,7 @@ The contact page contained a simple form that allowed potential clients or emplo
 
 ## Challenges
 
-Originally I uploaded only the src folder into the repository which does not contain the readme.md file. In order to rememdy this I had to create a new repository to upload the required files.
+Originally I uploaded only the src folder into the repository which does not contain the readme.md file. In order to remedy this I had to create a new repository to upload the required files.
 
 Another issue faced was the blog and the project buttons on mobile and tablet viewports. When using a different browser like safari, the buttons did not function correctly and must be held in order to view the text within the buttons.
 
