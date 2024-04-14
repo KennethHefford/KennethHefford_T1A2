@@ -16,7 +16,7 @@ This website was created using HTML & CSS through the VS Code Program. Source Co
 The main inspiration for my portfolio website design and structure is from the Sydney University website (www.sydney.edu.au).  
 Their design is simplistic, modern and provides ease of access.
 
-The Navigation bar made it very easy to navigate the website as the links were neat, simple bestowing a clean and artful website. Using their website as inspiration I was able to create my own design. Footer is very clean and bold highlighting important links.
+The Navigation bar made it very easy to navigate the website as the links were neat, simple bestowing a clean and artful website. Footer is very clean and bold highlighting important links.  Using their website as inspiration I was able to create my own design.
 
 ### Navigation Bar
 
