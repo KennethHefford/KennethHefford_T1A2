@@ -153,4 +153,12 @@ The contact page contained a simple form that allowed potential clients or emplo
 ## Site Map of the website 
 ![Site Map](docs/khefford.io.drawio.png)
 
+
+## Challenges
+
+Originally I uploaded only the src folder into the repository which does not contain the readme.md file. In order to rememdy this I had to create a new repository to upload the required files.  
+
+Another issue faced was the blog and the project buttons on mobile and tablet viewports. When using a different browser like safari, the buttons did not function correctly and must be held in order to view the text within the buttons. 
+
+
 # End
