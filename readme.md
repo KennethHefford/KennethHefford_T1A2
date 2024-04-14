@@ -3,6 +3,9 @@
 https://khefford.netlify.app/  
 https://github.com/KennethHefford/KennethHefford_T1A2
 
+Design Brief Presentation Link
+https://youtu.be/GeRWBtO5NWo  
+
 ## Purpose
 
 The Purpose of this Portfolio Website is to showcase my best work, what services I offer, and my experience to my target audience being a potential employer or client. This Portfolio Website will further demonstrate my capability to be an asset to a company or client in the case of freelancing services.
@@ -52,7 +55,7 @@ There were three main colours that I used to brighten the website, engage and gu
 
 ![Colour 3](<docs/Colour 3.png>)
 
-The colours were also used to provide website accessibility. Colour 1 is used to guide the viewer to the most important links by being quite bold in comparison to the background.
+The colours were used to provide website accessibility. Colour 1 is used to guide the viewer to the most important links by being quite bold in comparison to the background.
 
 ![Bold Colour](<docs/khefford.io colour scheme.png>)
 
