@@ -84,7 +84,7 @@ More layouts in the [khefford.io WireFrame](./docs/kennethhefford_t1a2-wireframe
 
 ![Desktop View Index](<docs/Full Website Index.png>)
 
-The website must look consistent while adhering to screen size of the device used to view the website. Changing the conformation of specific components such as making the Navigation Bar and Tech Stack to vertically orientated for mobile viewports. Additonally, the home button is completely removed and replaced by the website name button which acts as the home button or the logo can simply be used.
+The website must look consistent while adhering to screen size of the device used to view the website. Changing the conformation of specific components such as making the Navigation Bar and Tech Stack to vertically orientated for mobile viewports. Additionally, the home button is completely removed and replaced by the website name button which acts as the home button or the logo can simply be used.
 
 ![Mobile View Index](<docs/Mobile View Index.png>)
 
